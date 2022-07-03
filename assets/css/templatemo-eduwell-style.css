@@ -112,6 +112,9 @@ img {
   width: 100%;
   overflow: hidden;
 }
+#logoImage {
+  width: 55px;
+}
 
 /* 
 ---------------------------------------------
